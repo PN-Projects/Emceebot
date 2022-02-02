@@ -1,0 +1,10 @@
+from pyrogram import filters
+from EmceeBot import pbot as app
+
+PHOTO = "https://telegra.ph/file/d11559c784754933b69c2.jpg"
+    
+@app.on_message(filters.command('emcee', ['/', '?', '!', '.'])) 
+async def emcee(_, message):
+    await message.reply("**Hello {mention}, ᴇᴍᴄᴇᴇ ɪs ᴀʟɪᴠᴇ ʏᴇᴛ.**") 
+    
+
