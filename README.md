@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EMCEE GROUP MANAGER BOT
 
 EMCEE IS ADVANCE GROUP MANAGER BOT FOR GEEKS 
@@ -22,3 +23,6 @@ Your beloved:-
 [EMCEE DEVS](https://t.me/Emcee_Devs)
  
 
+=======
+# emcee
+>>>>>>> 164d6cd0a8acd563e8492b38d2884dcb78516560
