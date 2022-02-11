@@ -24,5 +24,7 @@ Your beloved:-
  
 
 =======
-# emcee
->>>>>>> 164d6cd0a8acd563e8492b38d2884dcb78516560
+# emcee 
+
+root@parthiv #
+http://rikudodevs.art.blog
